@@ -51,6 +51,7 @@
         android:layout_width="match_parent"
         android:layout_height="59dp"
         android:gravity="center"
+        android:textColor="#12ED1B"
         android:hint="@string/bmi"
         android:textColorHint="#03A9F4"
          />
@@ -63,6 +64,7 @@
         android:textColor="#fff"
         android:background="#B10E0E"
         android:layout_gravity="center"
+        android:onClick="tinh_BMI"
         android:layout_marginTop="20dp"/>
 
 
