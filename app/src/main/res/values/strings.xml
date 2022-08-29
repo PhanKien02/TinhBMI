@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="Chieu_cao">Nhập chiều cao</string>
+    <string name="can_nang">Nhập cân nặng</string>
+    <string name="text_button">OK</string>
+    <string name="bmi">BMI</string>
+    <string name="title">Chương trình tính BMI</string>
+</resources>
